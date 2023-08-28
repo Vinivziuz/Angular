@@ -1,0 +1,7 @@
+div.img{
+   border: 2px solid white;
+   float: left;
+}
+div.center{
+    align-items: center;
+}
