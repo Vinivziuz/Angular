@@ -2,6 +2,13 @@ div.img{
    border: 2px solid white;
    float: left;
 }
+
+div#direita{
+    float: right;
+    border: 0px;
+}
+
 div.center{
     align-items: center;
 }
+
